@@ -12,7 +12,7 @@ Incomplete App can be walked through @ https://mattiasstroman.com
 
 ### Backend
 
-Built With Express on NodeJs, SQLite DataBase. Currently Incomplete But will uploaded as it becomes completed
+Built With Express on NodeJs, SQLite DataBase. Currently Incomplete But will be uploaded as it becomes completed
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
