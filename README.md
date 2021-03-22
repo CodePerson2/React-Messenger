@@ -1,5 +1,9 @@
 # React-Messenger App
 
+# This App has been merged into Node-Express-Server/messenger
+
+## `Go There For Updated Version`
+
 ## `Built by Mattias Stroman`
 
 ### Frontend
